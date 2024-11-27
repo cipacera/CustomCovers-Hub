@@ -1,0 +1,1 @@
+If you need a practical example of applying HTML and CSS, the Phone Case Studio project is a perfect fit. The website is designed to display phone cases attractively and effectively. It’s an excellent way to practice basic web development skills and explore the world of responsive design.
